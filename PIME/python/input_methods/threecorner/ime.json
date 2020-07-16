@@ -1,0 +1,14 @@
+{
+    "name":"三角輸入法 (PIME)",
+    "version": "1.0",
+    "guid": "{F828D2DC-81BE-466E-9CFE-24BB03172695}",
+    "locale": "zh-Hant-TW",
+    "fallbackLocale": "zh-TW",
+    "icon": "icon.ico",
+    "win8_icon": "icon.ico",
+    "moduleName": "threecorner_ime",
+    "serviceName": "ThreeCornerTextService",
+    "configTool": "..\\..\\python3\\pythonw.exe",
+    "configToolParams": "configtool.py config threecorner",
+    "configToolDir": "..\\..\\cinbase"
+}
